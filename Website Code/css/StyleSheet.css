@@ -1,0 +1,67 @@
+        h2{
+    		text-decoration:underline
+    	}
+    	p{
+    		font-size:25pt;
+
+    	}
+    	ul{
+    		font-style:bold;
+    	}
+    	body{
+    		background-color:#cd98c0;
+            background-image:url('');
+            background-size:cover;
+            background-repeat:no-repeat;
+            background-position:bottom;
+    	}
+    	a{
+    		color:purple;
+    	}
+        h1{
+            text-decoration:underline;
+        }
+        #briefBio{
+            font-size:25pt;
+        }
+        table{
+            table-layout:fixed;
+            margin:auto;
+        }
+        h3{
+            text-decoration:underline;
+        }
+        .div{
+            background-color:#e6cbdf;
+            width: 750px;
+            border:15px solid pink;
+            margin: auto;
+            text-align:center;
+            padding-left:;
+        }
+        #div2{
+            background-color:#e6cbdf;
+            width: 750px;
+            border:15px solid pink;
+            margin: auto;
+            text-align:center;
+        }
+        form{
+            background-color:#e6cbdf;
+            width: 750px;
+            border:15px solid pink;
+            margin: auto;
+            text-align:center;    
+        }
+        input[type=button]:hover{
+            border:solid;
+            background-color:#e6cbdf
+        }
+        li{
+            text-decoration:underline;
+        }
+        img{
+            display:block;
+            margin-left:auto;
+            margin-right:auto;
+        }
